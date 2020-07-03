@@ -1,0 +1,26 @@
+body {
+	font-family: 'MuseoModerno', cursive;
+}
+.container-fluid, .chicken, .beef, .shushi {
+	background-color: #d5d7db;
+}
+.navbar-header a h1 {
+	padding-left: 20px;
+	color: #062b8a;
+}
+.bt-toggle {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.chicken p, .beef p, .shushi p {
+	font-family: 'Roboto Mono', monospace;
+}
+#nav-list a {
+	margin:-15px auto -15px;
+}
+#nav-list li:hover {
+	background: #E7E7E7;
+}
+#nav-list li:nth-child(1) {
+	padding-top: 12px;
+}
