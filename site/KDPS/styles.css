@@ -85,12 +85,12 @@ body {
 }
 
 .instagram {
-  background-image: linear-gradient(to right,blue 0%,red 100%),url('w3css.gif');
+  background-image: linear-gradient(to top right,#ffdc80 0%,#fcaf45 10%,#f77737 20%,#f56040 30%,#fd1d1d 40%,#e1306c 50%,#c13584 60%,#833ab4 70%,#5851db 80%,#405de6 100%),url('w3css.gif');
   background-blend-mode: normal;
 }
 
 .google {
-  background: #dd4b39;
+  background: #1a0dab;
 }
 
 .whatsapp {
